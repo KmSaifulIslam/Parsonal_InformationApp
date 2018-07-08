@@ -1,0 +1,10 @@
+C:\Users\kms\Desktop\KM\Personal_InformationApp\Personal_InformationApp\bin\Debug\Personal_InformationApp.exe.config
+C:\Users\kms\Desktop\KM\Personal_InformationApp\Personal_InformationApp\bin\Debug\Personal_InformationApp.exe
+C:\Users\kms\Desktop\KM\Personal_InformationApp\Personal_InformationApp\bin\Debug\Personal_InformationApp.pdb
+C:\Users\kms\Desktop\KM\Personal_InformationApp\Personal_InformationApp\obj\Debug\Personal_InformationApp.csprojAssemblyReference.cache
+C:\Users\kms\Desktop\KM\Personal_InformationApp\Personal_InformationApp\obj\Debug\Personal_InformationApp.Form1.resources
+C:\Users\kms\Desktop\KM\Personal_InformationApp\Personal_InformationApp\obj\Debug\Personal_InformationApp.Properties.Resources.resources
+C:\Users\kms\Desktop\KM\Personal_InformationApp\Personal_InformationApp\obj\Debug\Personal_InformationApp.csproj.GenerateResource.cache
+C:\Users\kms\Desktop\KM\Personal_InformationApp\Personal_InformationApp\obj\Debug\Personal_InformationApp.csproj.CoreCompileInputs.cache
+C:\Users\kms\Desktop\KM\Personal_InformationApp\Personal_InformationApp\obj\Debug\Personal_InformationApp.exe
+C:\Users\kms\Desktop\KM\Personal_InformationApp\Personal_InformationApp\obj\Debug\Personal_InformationApp.pdb
